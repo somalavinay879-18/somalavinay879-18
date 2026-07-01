@@ -1,36 +1,43 @@
 # Hi, I'm Vinay Somala 👋
 
-### Applied Data Science & AI Master's Student
+## Applied Data Science & AI Master's Student
 
-**Python | Machine Learning | SQL | SAP S/4HANA MM | Data Analytics**
+**Python | Machine Learning | SQL | SAP S/4HANA MM | Data Analytics | React**
 
-📍 Hamburg, Germany | Open to Working Student Opportunities
+📍 Hamburg, Germany 🇩🇪
 
----
-
-# About Me
-
-- 🎓 M.Sc. Applied Data Science at SRH University, Hamburg
-- 📚 Currently learning SAP S/4HANA Materials Management (SAP MM)
-- 💻 Passionate about Data Science, AI and Machine Learning
-- 📊 Interested in Data Analytics, Business Intelligence and Predictive Modeling
-- 🌱 Always learning and building real-world projects
+Open to **Working Student** and **Internship** opportunities in **Data Science, AI, SAP, Data Analytics, and Business Intelligence**.
 
 ---
 
-# Key Highlights
+# 👨‍💻 About Me
 
-- ✔ Built Machine Learning models for prediction problems
-- ✔ Developed end-to-end Data Science pipelines
-- ✔ Experience with SQL, Python and Data Visualization
-- ✔ Created responsive React Portfolio Website
-- ✔ Passionate about solving business problems using data
+🎓 M.Sc. Applied Data Science at **SRH University, Hamburg**
+
+📚 Currently pursuing **SAP S/4HANA Materials Management (SAP MM)** at **Brandenburg University of Applied Sciences**
+
+💡 Passionate about solving business problems using **Data Science, AI, SAP, and Analytics**
+
+🌱 Continuously learning Machine Learning, SAP ERP, Cloud Technologies, and Full Stack Development.
 
 ---
 
-# Tech Stack
+# 🚀 Key Highlights
 
-## Languages
+- ✔ Applied Data Science Master's Student
+- ✔ SAP S/4HANA Materials Management (MM)
+- ✔ Machine Learning & Predictive Analytics
+- ✔ Data Analytics & Business Intelligence
+- ✔ SQL Database Design & Query Optimization
+- ✔ Python Automation
+- ✔ Interactive Dashboard Development
+- ✔ React Portfolio Development
+
+---
+
+# 💻 Technical Skills
+
+## Programming Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -38,31 +45,55 @@
 
 ---
 
-## Data Science & ML
+## Data Science & Machine Learning
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![Machine Learning](https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
+
+---
+
+## SAP Skills
+
+![SAP](https://img.shields.io/badge/SAP_S4HANA_MM-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP MM](https://img.shields.io/badge/Materials_Management-008FD3?style=for-the-badge)
+![Procurement](https://img.shields.io/badge/Procurement-success?style=for-the-badge)
+![Inventory Management](https://img.shields.io/badge/Inventory_Management-blue?style=for-the-badge)
+![Purchase Order](https://img.shields.io/badge/Purchase_Order-green?style=for-the-badge)
 
 ---
 
 ## Web Development
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
 
 ---
 
-# Featured Projects
+## Tools & Technologies
 
-### 🚀 Portfolio Website
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Power BI
+- Streamlit
+- SAP S/4HANA
+- MySQL
 
-Modern React Portfolio built with React, Tailwind CSS and Vite.
+---
+
+# 📂 Featured Projects
+
+### 🌐 Personal Portfolio
+
+Modern portfolio website developed using **React, Tailwind CSS and Vite**.
 
 🔗 https://portfolio-i8rl.vercel.app
 
@@ -70,33 +101,45 @@ Modern React Portfolio built with React, Tailwind CSS and Vite.
 
 ### 📊 Supermarket Data Pipeline
 
-Python, DuckDB, SQL and Streamlit based Data Engineering Pipeline.
+Python | DuckDB | SQL | Streamlit
+
+- ETL Pipeline
+- Data Visualization
+- Business Analytics Dashboard
 
 ---
 
 ### 📈 Cryptocurrency Price Prediction
 
-Machine Learning model for cryptocurrency forecasting.
+Machine Learning Project
+
+- Feature Engineering
+- Time Series Prediction
+- Model Evaluation
 
 ---
 
 ### 💼 CareerTrack
 
-Career guidance web application developed using HTML, CSS and JavaScript.
+Career Guidance Web Application
+
+- HTML
+- CSS
+- JavaScript
 
 ---
 
-# GitHub Stats
+# 📊 GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=somalavinay879-18&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=somalavinay879-18&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=somalavinay879-18&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somalavinay879-18&layout=compact&theme=tokyonight)
 
-![](https://streak-stats.demolab.com?user=somalavinay879-18&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=somalavinay879-18&theme=tokyonight)
 
 ---
 
-# Connect With Me
+# 🌐 Connect With Me
 
 💼 LinkedIn
 
@@ -106,10 +149,14 @@ https://www.linkedin.com/in/vinaysomala/
 
 https://github.com/somalavinay879-18
 
-🌐 Portfolio
+🌍 Portfolio
 
 https://portfolio-i8rl.vercel.app
 
 📧 Email
 
 somalavinay879@gmail.com
+
+---
+
+### ⭐ Thanks for visiting my profile!
