@@ -1,194 +1,93 @@
-# Hi, I'm Vinay Somala 👋
+# Vinay Somala
 
-## 🎓 Applied Data Science Master's Student | SAP S/4HANA MM | Machine Learning | Data Analytics
+### Data Science & AI | SAP S/4HANA MM | Supply Chain Analytics
 
-**Python • SQL • Machine Learning • SAP S/4HANA MM • Power BI • React**
+**M.Sc. Applied Data Science & Artificial Intelligence**  
+SRH University · Hamburg, Germany 🇩🇪
 
-📍 Hamburg, Germany 🇩🇪
+**Open to Working Student (Werkstudent), Mandatory Internship and Master's Thesis opportunities in Germany.**
 
-💼 Open to **Working Student** and **Internship** opportunities in **Data Science, Machine Learning, SAP, Business Intelligence, and Data Analytics**.
-
----
-
-# 👨‍💻 About Me
-
-🎓 Pursuing **M.Sc. Applied Data Science** at **SRH University, Hamburg**
-
-📚 Currently pursuing **SAP S/4HANA Materials Management (SAP MM)** at **Brandenburg University of Applied Sciences**
-
-💡 Passionate about building **data-driven solutions** using Machine Learning, SAP ERP, SQL, and Business Analytics.
-
-🚀 Interested in Artificial Intelligence, Data Engineering, Cloud Technologies, and Enterprise Solutions.
-
-🌱 Constantly learning new technologies and building practical projects.
+[**Portfolio Website**](https://somalavinay.vercel.app) · [**LinkedIn**](https://www.linkedin.com/in/vinaysomala/) · [**Email**](mailto:vinay.doer@gmail.com)
 
 ---
 
-# 🚀 Key Highlights
+## Professional Profile
 
-- ✅ Applied Data Science Master's Student
-- ✅ SAP S/4HANA Materials Management (MM)
-- ✅ Machine Learning & Predictive Analytics
-- ✅ Data Analytics & Business Intelligence
-- ✅ SQL Database Design & Query Optimization
-- ✅ Python Automation & Data Processing
-- ✅ Interactive Dashboard Development using Power BI & Streamlit
-- ✅ React & Tailwind CSS Portfolio Development
+I am a Master's student in **Applied Data Science & Artificial Intelligence at SRH University, Hamburg**, with a strong interest in the intersection of **data analytics, enterprise systems and supply chain operations**.
 
----
+My work combines technical skills in **Python, SQL, Machine Learning and Data Engineering** with practical academic training in **SAP S/4HANA Materials Management (MM)**.
 
-# 💻 Tech Stack
+Through hands-on projects, I have developed applications for business data analysis, predictive modeling, data processing and workflow management. My SAP training has also strengthened my understanding of procurement, inventory-related processes and integrated enterprise operations.
 
-## 👨‍💻 Programming Languages
+I am particularly interested in applying these capabilities to help organizations improve **operational visibility, process efficiency and data-driven decision-making**.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Career focus:** Data Analytics · SAP MM / Procurement Analytics · Supply Chain Analytics · Data Engineering · Machine Learning
 
 ---
 
-## 📊 Data Science & Machine Learning
+## Technical Expertise
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
----
-
-## 🏢 SAP Skills
-
-![SAP](https://img.shields.io/badge/SAP_S4HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-![SAP MM](https://img.shields.io/badge/SAP_MM-008FD3?style=for-the-badge)
-![Procurement](https://img.shields.io/badge/Procurement-success?style=for-the-badge)
-![Inventory](https://img.shields.io/badge/Inventory_Management-blue?style=for-the-badge)
-![Purchase Orders](https://img.shields.io/badge/Purchase_Orders-green?style=for-the-badge)
-![Goods Receipt](https://img.shields.io/badge/Goods_Receipt-orange?style=for-the-badge)
-![Invoice Verification](https://img.shields.io/badge/Invoice_Verification-purple?style=for-the-badge)
-![Master Data](https://img.shields.io/badge/Master_Data-grey?style=for-the-badge)
+| Domain | Technologies & Competencies |
+|---|---|
+| **Programming & Data** | Python, SQL, Pandas, NumPy, JavaScript |
+| **Data Analytics & BI** | Power BI, Excel, Data Visualization, Exploratory Data Analysis, Plotly |
+| **Machine Learning** | Scikit-learn, XGBoost, Random Forest, Feature Engineering, Predictive Modeling |
+| **Data Engineering** | Data Cleaning, ETL Pipelines, Data Transformation, DuckDB |
+| **Databases** | SQL, SQLite, MongoDB, DuckDB |
+| **SAP S/4HANA MM** | SAP GUI, SAP Fiori, Sourcing & Procurement, Material Master Data, Purchase Orders, Goods Receipt, Invoice Verification |
+| **Supply Chain** | Procurement Processes, Inventory Management, Demand Forecasting, Logistics Analytics |
+| **Applications & Tools** | Streamlit, Flask, Docker, Git, GitHub, Jupyter Notebook, VS Code |
+| **Web Technologies** | React, Vite, Tailwind CSS, HTML, CSS |
 
 ---
 
-## 🌐 Web Development
+## Featured Technical Projects
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+### 01 — CareerTrack | Job Application Tracking System
 
----
+**Python · Flask · SQLite · Docker**
 
-## 🛠 Tools
+A web-based application designed to organize job applications and provide a clear overview of recruitment progress.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+**What I implemented**
+- Developed an application management workflow with create, update and delete functionality.
+- Built a dashboard displaying application statuses, interview progress and recruitment outcomes.
+- Integrated SQLite for persistent application records.
+- Added progress indicators, application statistics and monthly tracking features.
+- Containerized the application using Docker.
 
----
+**Core areas:** Backend Development · Database Integration · Dashboard Design · Application Deployment
 
-# 📂 Featured Projects
+[**Explore CareerTrack on GitHub →**](https://github.com/somalavinay879-18/CareerTrack)
 
-## 🌐 Personal Portfolio
+### 02 — Cryptocurrency Price Direction Prediction
 
-Modern portfolio website built with **React, Tailwind CSS, and Vite**.
+**Python · Pandas · Scikit-learn · XGBoost · Random Forest**
 
-🔗 **https://portfolio-i8rl.vercel.app**
+A machine learning project focused on analyzing historical cryptocurrency market data and modeling price direction.
 
----
+**What I implemented**
+- Prepared and explored historical market datasets.
+- Performed data preprocessing and feature engineering.
+- Applied classification algorithms to predict price movement direction.
+- Evaluated and compared machine learning models.
+- Analyzed model performance and predictive behavior.
 
-## 📊 Supermarket Data Pipeline
+**Core areas:** Machine Learning · Predictive Analytics · Feature Engineering · Model Evaluation
 
-Python • DuckDB • SQL • Streamlit
+[**Explore the ML Project on GitHub →**](https://github.com/somalavinay879-18/crypto-price-prediction-ml)
 
-- End-to-End ETL Pipeline
-- Data Cleaning
-- Business Dashboard
-- Data Analytics
+### 03 — Supermarket Sales Data Pipeline
 
----
+**Python · SQL · DuckDB · Streamlit**
 
-## 📈 Cryptocurrency Price Prediction
+An end-to-end data processing and visualization project designed to transform sales data into accessible business insights.
 
-Machine Learning Project
+**What I implemented**
+- Built data preparation and transformation workflows.
+- Used DuckDB and SQL to organize and analyze sales information.
+- Performed sales analysis through database queries.
+- Created an interactive Streamlit dashboard for exploring business data.
+- Connected data processing with visual reporting.
 
-- Feature Engineering
-- Predictive Modeling
-- Time-Series Analysis
-- Model Evaluation
-
----
-
-## 💼 CareerTrack
-
-Career Guidance Web Application
-
-- HTML
-- CSS
-- JavaScript
-
----
-
-# 📜 Education
-
-🎓 **M.Sc. Applied Data Science**
-
-SRH University, Hamburg
-
----
-
-🎓 **SAP S/4HANA Materials Management (SAP MM)**
-
-Brandenburg University of Applied Sciences
-
----
-
-# 🌍 Languages
-
-🇬🇧 English – Professional
-
-🇩🇪 German – A1 (Learning)
-
-🇮🇳 Telugu – Native
-
-🇮🇳 Hindi – Professional
-
----
-
-# 📊 GitHub Statistics
-
-![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=somalavinay879-18&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somalavinay879-18&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=somalavinay879-18&theme=tokyonight)
-
----
-
-# 🤝 Connect With Me
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/vinaysomala/
-
-🌐 **Portfolio**
-
-https://portfolio-i8rl.vercel.app
-
-💻 **GitHub**
-
-https://github.com/somalavinay879-18
-
-📧 **Email**
-
-somalavinay879@gmail.com
-
----
-
-## ⭐ Thanks for visiting my profile!
-
-_"Turning Data into Decisions | Building Intelligent Solutions with AI & SAP"_
+**Core areas:** Data Engineering · ETL · SQL Analytics · Business
