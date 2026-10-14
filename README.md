@@ -1,125 +1,162 @@
+
 # 👋 Hi, I'm Vinay Somala!
 
 ### 🎓 Data Science & AI | SAP S/4HANA MM | Supply Chain Analytics
 
-**M.Sc. Applied Data Science & Artificial Intelligence | SRH University, Hamburg 🇩🇪**
+**M.Sc. Applied Data Science & Artificial Intelligence**  
+SRH University, Hamburg, Germany 🇩🇪
 
-![Profile Views](https://komarev.com/ghpvc/?username=somalavinay879-18&label=Profile%20Views&color=0e75b6&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/somalavinay879-18?label=Followers&style=for-the-badge&color=2563eb)
-![Location](https://img.shields.io/badge/Location-Hamburg%2C%20Germany-334155?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=somalavinay879-18&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/somalavinay879-18?label=Followers&style=flat&color=0e75b6)
+![Location](https://img.shields.io/badge/Location-Hamburg%2C%20Germany-34495e)
 
-**💼 Open to Working Student, Mandatory Internship & Master's Thesis opportunities in Germany**
+💼 **Open to Working Student Roles | Internships | Master's Thesis Opportunities in Germany**
 
-🌐 [**My Portfolio**](https://somalavinay.vercel.app) | 💼 [**LinkedIn**](https://www.linkedin.com/in/vinaysomala/) | 📧 [**Email Me**](mailto:vinay.doer@gmail.com)
+🌐 [Portfolio](YOUR_PORTFOLIO_URL) • 💼 [LinkedIn](YOUR_LINKEDIN_URL) • 📧 [Email](mailto:YOUR_EMAIL)
 
 ---
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Vinay Somala**, a Master's student in **Applied Data Science & Artificial Intelligence at SRH University, Hamburg**, with a strong interest in **Data Analytics, Machine Learning, SAP S/4HANA MM, and Supply Chain Analytics**.
+I'm a Master's student in **Applied Data Science & Artificial Intelligence at SRH University, Hamburg**, interested in connecting data-driven technologies with real business challenges.
 
-I enjoy transforming raw data into actionable insights, developing intelligent applications, and understanding how enterprise systems support real-world business operations.
+My key areas of interest include:
 
-My goal is to combine **technical expertise with business process knowledge** to contribute to data-driven solutions in analytics, procurement, logistics, and enterprise technology.
+- 📊 **Data Analytics:** Exploring data, identifying trends, and generating actionable insights.
+- 🤖 **Artificial Intelligence:** Machine learning and intelligent applications.
+- 🏭 **SAP S/4HANA MM:** Materials management, sourcing, procurement, and inventory processes.
+- 🚚 **Supply Chain Analytics:** Inventory optimization, demand forecasting, and operational efficiency.
+- 📈 **Business Intelligence:** Turning complex information into clear, meaningful visualizations.
 
-- 🎓 Pursuing **M.Sc. Applied Data Science & Artificial Intelligence** in Germany
-- 🏢 Completed **SAP MM — Sourcing & Procurement with SAP S/4HANA** training through ERP4Students at Technische Hochschule Brandenburg
-- 📊 Working with **Python, SQL, Power BI, Machine Learning and Data Engineering**
-- 📦 Interested in **Procurement Analytics, Inventory Management, Demand Forecasting and Supply Chain Optimization**
-- 💻 Building applications using **Flask, Streamlit, SQL databases and Docker**
-- 🌱 Continuing to improve my **SAP, analytics and German language skills**
-- 🎯 Seeking practical industry opportunities where **Data Science meets SAP and business operations**
+🎯 **Career Goal:** To contribute to data-driven decision-making by combining analytical skills, AI technologies, and enterprise business process knowledge.
 
 ---
 
-## 🚀 Technical Skills & Technologies
+## 🛠️ Technical Skills & Tools
 
-### 👨‍💻 Programming Languages
+### 📊 Data Science & Analytics
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-### 📊 Data Analytics & Business Intelligence
+### 🤖 Machine Learning & Visualization
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-**Core skills:** Data Cleaning · Exploratory Data Analysis · Dashboard Development · Business Reporting · Data Visualization
+### 🏭 Enterprise & Supply Chain
 
-### 🤖 Machine Learning & Artificial Intelligence
+![SAP](https://img.shields.io/badge/SAP%20S%2F4HANA%20MM-0FA6D4?style=flat-square&logo=sap&logoColor=white)
+![Procurement](https://img.shields.io/badge/Sourcing%20%26%20Procurement-34495E?style=flat-square)
+![Inventory](https://img.shields.io/badge/Inventory%20Management-34495E?style=flat-square)
+![Forecasting](https://img.shields.io/badge/Demand%20Forecasting-34495E?style=flat-square)
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0A66C2?style=for-the-badge)
-![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-7C3AED?style=for-the-badge)
+### ⚙️ Development Tools
 
-**Core skills:** Regression · Classification · Feature Engineering · Model Evaluation · Predictive Modeling
-
-### 🏢 SAP S/4HANA & ERP Systems
-
-![SAP](https://img.shields.io/badge/SAP_S%2F4HANA-0FA6D4?style=for-the-badge&logo=sap&logoColor=white)
-![SAP MM](https://img.shields.io/badge/SAP_MM-006FBB?style=for-the-badge&logo=sap&logoColor=white)
-![Procurement](https://img.shields.io/badge/Procurement-2563EB?style=for-the-badge)
-![Inventory](https://img.shields.io/badge/Inventory_Management-475569?style=for-the-badge)
-![SAP Fiori](https://img.shields.io/badge/SAP_Fiori-0F828C?style=for-the-badge)
-
-**SAP knowledge:**
-- Sourcing & Procurement
-- Material Master Data & Business Partner Management
-- Purchase Requisitions and Purchase Orders
-- Goods Receipt & Invoice Verification
-- Procure-to-Pay (P2P) Processes
-- SAP GUI and SAP Fiori
-- Procurement Reporting & Analytics
-
-### 📦 Supply Chain & Logistics Analytics
-
-![Supply Chain](https://img.shields.io/badge/Supply_Chain_Analytics-334155?style=for-the-badge)
-![Demand Forecasting](https://img.shields.io/badge/Demand_Forecasting-0D9488?style=for-the-badge)
-![Logistics](https://img.shields.io/badge/Logistics_Analytics-2563EB?style=for-the-badge)
-![Inventory](https://img.shields.io/badge/Inventory_Analysis-64748B?style=for-the-badge)
-
-**Areas of interest:** Demand Forecasting · Procurement Analytics · Inventory Optimization · Supply Chain Reporting · Logistics Data Analysis
-
-### 🗄️ Databases & Data Engineering
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
-![ETL](https://img.shields.io/badge/ETL_Pipelines-1E40AF?style=for-the-badge)
-
-### 🛠️ Development Tools & Frameworks
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 ---
 
-## 💼 Featured Projects
+## 🚀 Featured Projects
 
-### 🚀 01 | CareerTrack — Job Application Tracking System
+### 🏏 Data Science in the Cricket Industry
 
-**Python | Flask | SQLite | Docker**
+**Focus:** Sports Analytics | Data Science
 
-A full-stack web application that helps users organize job applications, track recruitment progress, and monitor application outcomes.
+Academic research exploring how data analytics influences modern cricket.
 
-**✨ Key Features**
-- Application creation, editing and deletion
-- Dashboard with application status statistics
-- Interview, acceptance and rejection tracking
-- Monthly application goals and progress monitoring
-- SQLite database integration
-- Docker containerization
+- Player performance analysis and match statistics
+- Applications of data science in sports decision-making
+- Data science lifecycle in cricket analytics
 
-**🎯
+**Project link:** Add your GitHub repository here.
+
+### 📦 Inventory Management & Demand Forecasting
+
+**Focus:** Supply Chain Analytics | Excel
+
+Academic work involving inventory and forecasting concepts.
+
+- Forecast error analysis using MPE and MAPE
+- Safety stock and inventory replenishment
+- QR inventory policy and cycle counting
+- Data-driven operational decision-making
+
+**Project link:** Add your GitHub repository here.
+
+### 🏭 SAP S/4HANA Materials Management
+
+**Focus:** SAP MM | Sourcing & Procurement
+
+Practical academic exercises covering procurement and materials management workflows.
+
+- Material and supplier master data
+- Purchase requisitions and purchase orders
+- Goods receipt and invoice verification
+- Purchasing info records and source determination
+- Procurement analytics and supplier evaluation
+
+**Project link:** Add your GitHub repository here.
+
+> Project links will be added as documentation and repositories become available.
+
+---
+
+## 📚 Currently Learning
+
+- 🐍 Python programming and data analysis
+- 📊 SQL and business intelligence
+- 🤖 Machine learning and AI applications
+- 🏭 SAP S/4HANA MM business processes
+- 🇩🇪 German language for professional communication
+
+---
+
+## 📈 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=somalavinay879-18&show_icons=true&hide_border=true&rank_icon=github)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=somalavinay879-18&layout=compact&hide_border=true)
+
+*Statistics depend on the availability of the third-party GitHub stats service.*
+
+---
+
+## 🎯 Career Interests
+
+I'm interested in opportunities where I can develop practical experience and contribute to meaningful projects.
+
+| Area | Interests |
+|---|---|
+| Data Analytics | Data cleaning, visualization, reporting |
+| Data Science & AI | Machine learning, predictive analytics |
+| Business Intelligence | Dashboards, KPIs, decision support |
+| SAP S/4HANA MM | Procurement, inventory, sourcing |
+| Supply Chain Analytics | Forecasting, inventory optimization |
+
+**Opportunities:** Working Student • Internship • Master's Thesis
+
+📍 Hamburg, Germany
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in learning, collaborating on projects, and connecting with professionals in data science, AI, SAP, and supply chain analytics.
+
+🌐 **Portfolio:** [Visit My Portfolio](YOUR_PORTFOLIO_URL)
+
+💼 **LinkedIn:** [Connect with Me](YOUR_LINKEDIN_URL)
+
+📧 **Email:** [Contact Me](mailto:YOUR_EMAIL)
+
+---
+
+⭐ *Turning data into insights and connecting technology with business.*
