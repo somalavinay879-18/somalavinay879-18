@@ -29,4 +29,11 @@ ETL pipeline that merges 1,000 sales transactions with product costs, computes p
 Predicts the next 15-minute price direction for five Bybit pairs. Compares Logistic Regression, Random Forest and XGBoost on a time-based split (last 365 days held out) to avoid data leakage.
 
 **[CareerTrack](https://github.com/somalavinay879-18/CareerTrack)** · Python, Flask, SQLite, Docker
-Job application tracker with CRUD workflows, status tracking and
+Job application tracker with CRUD workflows, status tracking and dashboard metrics, packaged with Docker.
+
+## Education & certifications
+- M.Sc. Applied Data Science & Artificial Intelligence, SRH University Hamburg (Supply Chain Analytics)
+- SAP MM – Sourcing & Procurement with SAP S/4HANA, TH Brandenburg (ERP4Students), 2026
+
+## Currently building
+Retail demand forecasting and delivery analytics on the Olist dataset (SQL data model, Power BI dashboard, LightGBM forecasting). Repository coming soon.
