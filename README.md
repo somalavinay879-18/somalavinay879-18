@@ -1,24 +1,32 @@
-# Hi, I'm Vinay Somala 👋
+# Vinay Somala
 
-M.Sc. Applied Data Science & AI student at SRH University Hamburg (Supply Chain Analytics).
-I build data pipelines, dashboards and ML models, and I have hands-on SAP S/4HANA MM procurement training.
+**Data Science & Analytics | Supply Chain Analytics | SAP S/4HANA MM**
+M.Sc. Applied Data Science & AI, SRH University Hamburg (Oct 2025 – Sep 2027)
 
-📍 Hamburg, Germany
-🎯 Open to working student / internship / thesis roles in data analytics, BI and supply chain analytics
-🔗 [Portfolio](https://somalavinay.vercel.app) · [LinkedIn](https://linkedin.com/in/vinaysomala) · vinay.doer@gmail.com
+**Available for:** working student, internship and thesis roles in Hamburg or remote · German A2, English professional
+**Contact:** [LinkedIn](https://linkedin.com/in/vinaysomala) · [Portfolio](https://somalavinay.vercel.app) · vinay.doer@gmail.com
 
-## Tech stack
-**Analysis & ML:** Python, SQL, Pandas, scikit-learn, XGBoost
-**Data & BI:** DuckDB, MySQL, MongoDB, Streamlit, Power BI, Excel
-**SAP & Supply chain:** SAP S/4HANA MM, Procure-to-Pay, demand forecasting
-**Tools:** Git, Docker, Flask
+---
+
+## What I do
+I build data pipelines, KPI dashboards and machine learning models, and I understand the procurement processes behind the data through SAP S/4HANA MM training (Procure-to-Pay, master data, Fiori and GUI).
+
+## Skills
+
+| Area | Tools |
+|---|---|
+| Analysis & ML | Python, SQL, Pandas, NumPy, scikit-learn, XGBoost, feature engineering, time-series validation |
+| Data & BI | ETL, DuckDB, MySQL, SQLite, MongoDB, Power BI, Streamlit, Plotly, Excel |
+| SAP & supply chain | SAP S/4HANA MM, Procure-to-Pay, demand forecasting, AnyLogistix |
+| Engineering | Git, Docker, Flask, REST APIs |
 
 ## Projects
-| Project | What it does | Stack |
-|---|---|---|
-| [Supermarket Data Pipeline](https://github.com/somalavinay879-18/supermarket-data-pipeline) | ETL pipeline and SQL KPI dashboard for sales and profit | Python, DuckDB, Streamlit |
-| [Crypto Price Direction Prediction](https://github.com/somalavinay879-18/crypto-price-prediction-ml) | Time-based ML validation with no leakage across five Bybit pairs | Python, XGBoost |
-| [CareerTrack](https://github.com/somalavinay879-18/CareerTrack) | Job application tracker with status and dashboard | Flask, SQLite, Docker |
 
-## Currently building
-Retail demand forecasting and delivery analytics (Olist dataset, SQL, Power BI, LightGBM). Repo coming soon.
+**[Supermarket Data Pipeline](https://github.com/somalavinay879-18/supermarket-data-pipeline)** · Python, SQL, DuckDB, Streamlit
+ETL pipeline that merges 1,000 sales transactions with product costs, computes profit and loads tables into DuckDB. SQL KPIs and a Streamlit dashboard show sales and profit by product line and city.
+
+**[Crypto Price Direction Prediction](https://github.com/somalavinay879-18/crypto-price-prediction-ml)** · Python, scikit-learn, XGBoost
+Predicts the next 15-minute price direction for five Bybit pairs. Compares Logistic Regression, Random Forest and XGBoost on a time-based split (last 365 days held out) to avoid data leakage.
+
+**[CareerTrack](https://github.com/somalavinay879-18/CareerTrack)** · Python, Flask, SQLite, Docker
+Job application tracker with CRUD workflows, status tracking and
