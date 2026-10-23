@@ -38,10 +38,11 @@ End-to-end pipeline on a real e-commerce dataset: raw load, cleaning, star schem
 
 **Next:** weekly demand forecasting (seasonal baseline vs gradient boosting, time-based validation) and inventory logic.
 
-## More projects
+## All projects
 
 | Project | Result | Tools |
 |---|---|---|
+| **[Olist Retail Analytics](https://github.com/somalavinay879-18/olist-retail-analytics)** | Sales and delivery analytics on 99,441 orders: SQL star schema in DuckDB, 20 data quality checks, 17 CI tests and a [live dashboard](https://olist-retail-analytics-m4gmzrukba258sgprrpdke.streamlit.app) | Python, SQL, DuckDB, Streamlit, pytest |
 | **[Supermarket Data Pipeline](https://github.com/somalavinay879-18/supermarket-data-pipeline)** | ETL merging 1,000 transactions with product costs into DuckDB, SQL KPIs and a dashboard of sales and profit by product line and city | Python, SQL, DuckDB, Streamlit |
 | **[Crypto Price Direction Prediction](https://github.com/somalavinay879-18/crypto-price-prediction-ml)** | Next 15-minute direction for five Bybit pairs; three models compared on a time-based split with the last 365 days held out (no data leakage) | Python, scikit-learn, XGBoost |
 | **[CareerTrack](https://github.com/somalavinay879-18/CareerTrack)** | Flask app to track job applications with search, CSV import/export and an analytics page; 22 automated tests, CI and Docker | Python, Flask, SQLite, Docker, pytest |
